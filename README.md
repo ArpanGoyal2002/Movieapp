@@ -1,8 +1,15 @@
 # movie-cafe
-Movie  Webapp In MERN Stack. React Js For Front End, Node Js And Node Js For Server And Mongo Db For Database.
+Movie Webapp In MERN Stack. React Js For Front End, Node Js And Node Js For Server And Mongo Db For Database.
 
 ## Check It Live (Demo)
 Here --> https://watchtrmovies.herokuapp.com/#/
+
+## Screen Shot Of App
+In Desktop
+![GitHub Logo](/img.jpg)
+
+In Mobile
+![GitHub Logo](/mobile.png)
 
 ## Setup
 
