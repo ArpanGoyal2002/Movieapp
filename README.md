@@ -1,15 +1,8 @@
 # movie-cafe
-Movie Downloading Webapp In MERN Stack. React Js For Front End, Node Js And Node Js For Server And Mongo Db For Database.
+Movie  Webapp In MERN Stack. React Js For Front End, Node Js And Node Js For Server And Mongo Db For Database.
 
 ## Check It Live (Demo)
-Here --> https://movie-cafe.herokuapp.com/
-
-## Screen Shot Of App
-In Desktop
-![GitHub Logo](/img.jpg)
-
-In Mobile
-![GitHub Logo](/mobile.png)
+Here --> https://watchtrmovies.herokuapp.com/#/
 
 ## Setup
 
@@ -22,12 +15,6 @@ In Mobile
 
 Use Route <Domain>/A_D_M_I_N ----
 Edit .env And Set Email, Password & Secret
-
-## For Any Query
-
-Masage Us On https://www.instagram.com/code.diggers/
-
-Subscribe Our Channel https://www.youtube.com/channel/UCcbZ7AmY35Kps985i5UIIKA
 
 ## deploy
 Use Heroku For Deployment
